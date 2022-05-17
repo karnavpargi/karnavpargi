@@ -13,6 +13,8 @@ Last 2+ years also get chance to include React.js and Angular technologies in sk
 
 - 💬 Ask me about **NodeJS, NestJS, MongoDB, GraphQL, Angular, AWS**
 
+[![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
+
 ---
 <h3 align="left">Connect with me:</h3>
 
