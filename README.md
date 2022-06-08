@@ -19,7 +19,7 @@ Last 2+ years also get chance to include React.js and Angular technologies in sk
 [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
     </td>
     <td>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/main/devcard.svg" width="40%" alt="Karnav Pargi's Dev Card"/></a>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/karnavpargi/karnavpargi/blob/main/devcard.svg" width="40%" alt="Karnav Pargi's Dev Card"/></a>
     </td>
   </tr>
 </table>
