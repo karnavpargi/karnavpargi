@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karnav Pargi</h1>
-<table>
-  <tr>
-    <td>
-    <h3 align="center">
-🔶  Software Developer with 5+ years total experience in MEAN-Stack technology  🔶
-
-Started career as NodeJS Developer
-
-Last 2+ years also get chance to include React.js and Angular technologies in skills list
-</h3>
+<h3 align="center"> 🔶 5+ years of experience in MEAN Stack technology 🔶</h3>
 
 ![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
@@ -17,12 +8,10 @@ Last 2+ years also get chance to include React.js and Angular technologies in sk
 - 💬 Ask me about **NodeJS, NestJS, MongoDB, GraphQL, Angular, AWS**
 
 [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
-    </td>
-    <td>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/karnavpargi/karnavpargi/blob/main/devcard.svg" width="400" alt="Karnav Pargi's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a> <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+[Microsoft](https://docs.microsoft.com/en-in/users/karnavpargi)
  
 ---
 <h3 align="left">Connect with me:</h3>
@@ -86,3 +75,5 @@ Last 2+ years also get chance to include React.js and Angular technologies in sk
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karnavpargi" alt="karnavpargi" /></a> </p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/karnavpargi/karnavpargi/blob/main/devcard.svg" width="200" alt="Karnav Pargi's Dev Card"/></a>
