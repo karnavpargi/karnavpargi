@@ -8,10 +8,6 @@
 - 💬 Ask me about **NodeJS, NestJS, MongoDB, GraphQL, Angular, AWS**
 
 [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
-
-<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a> <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-[Microsoft](https://docs.microsoft.com/en-in/users/karnavpargi)
  
 ---
 <h3 align="left">Connect with me:</h3>
@@ -66,6 +62,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a> <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnavpargi&show_icons=true&locale=en&layout=compact" alt="karnavpargi"/></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karnavpargi&" alt="karnavpargi" /></p>
 
 ---
@@ -76,4 +75,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karnavpargi" alt="karnavpargi" /></a> </p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/karnavpargi/karnavpargi/blob/main/devcard.svg" width="200" alt="Karnav Pargi's Dev Card"/></a>
