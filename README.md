@@ -13,8 +13,8 @@
   
 ![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge) [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
 
-- 👨‍💻 Expert in **NodeJS, NestJS, MongoDB, GraphQL, Angular, AWS**
-- ⛳ Intermediate in **Jenkins, Docker, Kubernetis** 
+- 👨‍💻 Expert in **NodeJS, NestJS, MongoDB, GraphQL, Angular**
+- ⛳ Intermediate in **AWS, Jenkins, Docker, Kubernetis** 
 - 📖  I’m currently learning **ReactJS, NextJS**
   </td>
   <td colspan="2">
