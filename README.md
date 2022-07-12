@@ -5,7 +5,7 @@
   </td>
   <td colspan="3">
    <h1 align="center">Namaste 🙏, I'm Karnav Pargi</h1>
-   <h3 align="center"> 🔶 5+ years of experience in MEAN Stack technology 🔶</h3>
+   <h3 align="center"> 🔶 MEAN Stack Developer 🔶</h3>
   </td>
   </tr>
  <tr>
