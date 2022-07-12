@@ -11,7 +11,7 @@
  <tr>
  <td colspan="2">
   
-![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge) [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/resume/blob/master/Karnav_Pargi_2021.pdf)
+![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge) [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/karnavpargi/blob/main/karnav_pargi_cv.pdf)
 
 - 👨‍💻 Expert in **NodeJS, NestJS, MongoDB, GraphQL, Angular**
 - ⛳ Intermediate in **AWS, Jenkins, Docker, Kubernetis** 
