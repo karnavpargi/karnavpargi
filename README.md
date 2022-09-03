@@ -17,18 +17,19 @@
 - ⛳ Intermediate in **AWS, Jenkins, Docker, Kubernetis** 
 - 📖  I’m currently learning **ReactJS, NextJS**
   </td>
-  <td colspan="2">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnavpargi&show_icons=true&locale=en&layout=compact" alt="karnavpargi"/></p>
+  <td colspan="2"> 
+ <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>&nbsp;<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a>
+  
   </td>
  </tr>
  <tr>
-  <td colspan="4">
+  <td colspan="2">
 <h3 align="left">Find me:</h3>
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karnavpargi)&nbsp;[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ws4xRKGnS8Mi)&nbsp;[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5894722/karnavpargi?tab=profile)
-   
- <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>&nbsp;<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a>
   </td>
+  <td colspan="2">
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnavpargi&show_icons=true&locale=en&layout=compact" alt="karnavpargi"/></p> </td>
  </tr>
  <tr>
   <td>
