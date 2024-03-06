@@ -5,7 +5,7 @@
   </td>
   <td colspan="3">
    <h1 align="center">Namaste 🙏, I'm Karnav Pargi</h1>
-   <h3 align="center"> 🔶 Contractor - Full Stack 🔶</h3>
+   <h3 align="center"> 🔶 Full Stack Engineer 🔶</h3>
   </td>
   </tr>
  <tr>
