@@ -13,9 +13,9 @@
   
 ![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge) [![](https://img.shields.io/badge/FIND-RESUME-KARNAV.svg)](https://github.com/karnavpargi/karnavpargi/blob/main/karnav_pargi_cv.pdf)
 
-- 👨‍💻 Expert in **NodeJS, NestJS, MongoDB, GraphQL, Angular**
+- 👨‍💻 Expert in **Angular, SSR, NodeJS, NestJS, MongoDB, GraphQL, ReactJS, NextJS**
 - ⛳ Intermediate in **AWS, Jenkins, Docker, Kubernetis** 
-- 📖  I’m currently learning **ReactJS, NextJS**
+- 📖  I’m currently learning **DevOps Architect**
   </td>
   <td colspan="2"> 
  <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for KARNAV PARGI on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>&nbsp;<a href="https://www.codewars.com/users/karnavpargi"><img src="https://www.codewars.com/users/karnavpargi/badges/large" width="300" height="58" alt="profile for KARNAV PARGI on Code wars"></a>
